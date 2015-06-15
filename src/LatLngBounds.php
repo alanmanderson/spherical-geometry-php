@@ -1,4 +1,5 @@
-<?php namespace alanmanderson\spherical-geometry-php;
+<?php 
+namespace alanmanderson\spherical_geometry;
 
 class LatLngBounds
 {

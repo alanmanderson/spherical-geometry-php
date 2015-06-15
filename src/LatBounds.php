@@ -1,5 +1,5 @@
 <?php
-
+namespace alanmanderson\spherical_geometry;
 
 // DO NOT USE THE CLASSES BELOW DIRECTLY
 
