@@ -1,5 +1,5 @@
 <?php
-
+namespace alanmanderson/spherical-geometry-php;
 /*!
  * Spherical Geometry PHP Library v1.1.1
  * http://tubalmartin.github.com/spherical-geometry-php/
