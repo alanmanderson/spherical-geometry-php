@@ -1,5 +1,5 @@
 {
-    "name":"alanmanderson/spherical-geometry-php",
+    "name":"alanmanderson/spherical_geometry",
     "description":"This library provides classes and functions for the computation of geometric data on the surface of the Earth. Code ported from the Google Maps Javascript API v3",
     "keywords": ["Spherical Geometry", "Latitute-Longitude calculations"],
     "homepage": "http://tubalmartin.github.com/spherical-geometry-php/",
@@ -17,7 +17,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "alanmanderson\\spherical-geometry-php\\": "src/"
+            "alanmanderson\\spherical_geometry\\": "src/"
         }
-    }
+    },
+    "require": {}
 }
